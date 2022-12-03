@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1d0ce4ee","path":"/tag/mongo/","title":"Mongo \u6807\u7B7E","lang":"zh-CN","frontmatter":{"title":"Mongo \u6807\u7B7E","blog":{"type":"category","name":"Mongo","key":"tag"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{e as data};
